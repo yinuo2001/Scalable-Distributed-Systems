@@ -1,0 +1,42 @@
+[
+  {
+    "albumID": 1,
+    "artist": "Oasis",
+    "title": "Definitely Maybe",
+    "year": 1994,
+    "imageSize": "123",
+    "imageType": "image/png"
+  },
+  {
+    "albumID": 2,
+    "artist": "Nirvana",
+    "title": "Nevermind",
+    "year": 1991,
+    "imageSize": "456",
+    "imageType": "image/jpeg"
+  },
+  {
+    "albumID": 3,
+    "artist": "Placebo",
+    "title": "Without You I am Nothing",
+    "year": 1998,
+    "imageSize": "789",
+    "imageType": "image/png"
+  },
+  {
+    "albumID": 4,
+    "artist": "Kagura",
+    "title": "Gintama",
+    "year": 2008,
+    "imageSize": "126810",
+    "imageType": "image/jpeg"
+  },
+  {
+    "albumID": 5,
+    "artist": "TetraScope",
+    "title": "Otaku Days are Gone",
+    "year": 2023,
+    "imageSize": "3541021",
+    "imageType": "image/jpeg"
+  }
+]
